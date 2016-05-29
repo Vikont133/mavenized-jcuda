@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.mystic</groupId>
+  <artifactId>mavenized-jcuda</artifactId>
+  <versioning>
+    <release>0.7.5b</release>
+    <versions>
+      <version>0.7.5b</version>
+    </versions>
+    <lastUpdated>20160529200025</lastUpdated>
+  </versioning>
+</metadata>
