@@ -92,7 +92,7 @@ public class Cuda implements ILife {
                     0, null,               // Shared memory size and stream
                     kernelParameters, null // Kernel- and extra parameters
             );
-//            cuCtxSynchronize();
+            cuCtxSynchronize();
         }
 
         byte[][] end = new byte[width][height];
